@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minuta-app.github.io/minuta/sitemap.xml
